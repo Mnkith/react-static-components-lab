@@ -1,7 +1,7 @@
 # React Static Components
 
 ## Objectives
-
+ 
 - Practice rendering static children components
 - Have some fun with the rendered components in the browser
 
